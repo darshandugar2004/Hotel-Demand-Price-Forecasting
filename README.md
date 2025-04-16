@@ -6,10 +6,10 @@
 **Optimizing Hotel Performance with Power BI | Pricing Strategy, Occupancy Analysis, Booking Trends**
 
 <h3>Dashboard - Summary View (Level 1)</h3>
-<img src="URL_TO_IMAGE_1" alt="Dashboard - Summary View - Level 1" width="600" />
+<img src="data/dash1.png" alt="Dashboard - Summary View - Level 1" width="600" />
 
 <h3>Dashboard - Room Type / Channel Breakdown (Level 2)</h3>
-<img src="URL_TO_IMAGE_2" alt="Dashboard - Room Type/Channel Breakdown - Level 2" width="600" />
+<img src="data/dash2.png" alt="Dashboard - Room Type/Channel Breakdown - Level 2" width="600" />
 
 
 ---
@@ -31,8 +31,7 @@ As a hotel chain owner looking to **evaluate hotel performance**, we built a dat
 - **dim_rooms** – Room Category
 - **fact_bookings** – raw transactional booking data  
 - **fact_aggregated_bookings** – daily successful bookings & room capacity
-- 
-
+  
 ---
 
 ## 📈 Key KPIs Included
