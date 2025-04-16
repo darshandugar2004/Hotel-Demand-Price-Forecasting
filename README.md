@@ -63,10 +63,6 @@ As a hotel chain owner looking to **evaluate hotel performance**, we built a dat
 - Which platforms have **highest cancellation rates**?
 - Are **OTA commissions hurting revenue realization**?
 
-### 📍 Pricing Effectiveness
-- Are they using **flat / weekday-weekend / dynamic pricing**?
-- Does ADR vary across similar occupancy levels?
-
 ---
 
 ## 🎯 Strategic Insights & Solutions
@@ -74,7 +70,6 @@ As a hotel chain owner looking to **evaluate hotel performance**, we built a dat
 - **Dynamic Pricing Implementation** using demand trends
 - **Early-bird discounts** for long lead-time bookings
 - **Non-refundable rates** for reducing cancellation losses
-- **Promotional campaigns** on underutilized room types
 - **Optimized room mix strategy** based on ADR & Ratings
 
 ---
@@ -123,7 +118,3 @@ If you're interested in expanding this model or customizing it for your chain, f
 **Darshan Dugar** – Data Analyst & ML Enthusiast  
 📧 Email: [darshan.dugar05@gmail.com]  
 🌐 LinkedIn: [(https://www.linkedin.com/in/darshan-dugar2004/)]
-
----
-
-Would you like me to package this as a downloadable `README.md` and help with uploading the dashboard `.pbix` or exporting images for GitHub?
