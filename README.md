@@ -117,4 +117,4 @@ If you're interested in expanding this model or customizing it for your chain, f
 
 **Darshan Dugar** – Data Analyst & ML Enthusiast  
 📧 Email: [darshan.dugar05@gmail.com]  
-🌐 LinkedIn: [(https://www.linkedin.com/in/darshan-dugar2004/)]
+🌐 LinkedIn: [https://www.linkedin.com/in/darshan-dugar2004/]
